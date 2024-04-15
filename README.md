@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAIF-KARANI
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science and engineer
+- 🌱 I’m currently learning computer science and engineering
 - 💞️ I’m looking to collaborate on anything just looking for learning and surving in this field
 - 📫 How to reach me message me
 - 😄 Pronouns: 4090 GPU
