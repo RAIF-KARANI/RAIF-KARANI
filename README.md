@@ -70,6 +70,9 @@ Computer Science and Engineering student from Karnataka, India, building full-st
 **[QueryCraft](https://github.com/RAIF-KARANI/QueryCraft-AI-Powered-SQL-NoSQL-Query-Generator)** — AI-powered natural-language-to-SQL/NoSQL query generator with a multi-turn chat interface for iterative query refinement
 `Next.js` `Node.js` `LLM` `PostgreSQL` `MongoDB`
 
+**[LinkedOut](https://github.com/sultanmaliki/LinkedOut)** ([Live](https://linkedout.raifkarani.in/feed)) — Employee-first career platform helping professionals discover, evaluate, and review companies through transparent workplace insights, built on a production-grade monorepo architecture
+`Next.js` `NestJS` `PostgreSQL`
+
 **Real-Time Chat Platform** — WebSocket-driven messaging system with JWT-secured auth, cutting API latency by 30% for 1,000+ concurrent users
 `React (Vite)` `Node.js` `Express.js` `MongoDB` `Socket.io`
 
