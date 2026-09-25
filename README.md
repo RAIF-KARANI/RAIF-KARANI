@@ -84,8 +84,8 @@ Computer Science and Engineering student from Karnataka, India, building full-st
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RAIF-KARANI&theme=radical&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAIF-KARANI&theme=radical&layout=compact)
+![GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
 
 ![Streak stats](https://streak-stats.demolab.com/?user=RAIF-KARANI&theme=radical)
 
